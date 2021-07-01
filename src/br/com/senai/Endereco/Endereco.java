@@ -1,5 +1,7 @@
 package br.com.senai.Endereco;
 
+import br.com.senai.aluno.Aluno;
+
 public class Endereco {
 
 	private String Pais;

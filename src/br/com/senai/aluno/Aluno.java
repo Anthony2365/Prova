@@ -2,7 +2,9 @@ package br.com.senai.aluno;
 
 import java.util.Calendar;
 
-public class Aluno {
+import br.com.senai.Endereco.Endereco;
+
+public class Aluno extends Endereco{
 	private String nomeAluno;
 	private int  idadeAluno;
 	private String curso;
